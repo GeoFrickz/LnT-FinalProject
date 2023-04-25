@@ -33,7 +33,7 @@
     <section class="home" id="home">
         <div class="home-text">
             <span>Welcome To</span>
-            <h1>IDO STORE</h1>
+            <h1>PT MEKSIKO</h1>
             <h2>Discount Product is Arrived !<br> <span>18 jan - 18 june 2023</span> </h2>
             <a href="{{ route('register') }}" class="btn">Register</a>
         </div>
@@ -80,8 +80,8 @@
         </div>
         <div class="about-text">
             <h2>About Us</h2>
-            <p>Pak Tesoi is a retail entrepreneur who sells various general merchandise. With years of experience in the industry, he has built a reputation for providing high-quality products and excellent customer service. </p>
-            <p>At Pak Tesoi's store (Ido Store), customers can find a wide range of goods, from household items and clothing to electronic gadgets and accessories. He sources his products from trusted suppliers, ensuring that they meet his strict standards of quality and affordability.</p>
+            <p>Pak Raja is a retail entrepreneur who sells various general merchandise. With years of experience in the industry, he has built a reputation for providing high-quality products and excellent customer service. </p>
+            <p>At Pak Raja's store (PT MEKSIKO), customers can find a wide range of goods, from household items and clothing to electronic gadgets and accessories. He sources his products from trusted suppliers, ensuring that they meet his strict standards of quality and affordability.</p>
             <a href="#"class="btn">Learn More</a>
         </div>
     </section>
@@ -102,7 +102,7 @@
             <a href="#">Carrer</a>
             <a href="#">Terms of Use</a>
         </div>
-        <p>&#169; Ido Store All Right Reserved.</p>
+        <p>&#169; PT MEKSIKO All Right Reserved.</p>
     </section>
 
 </body>
